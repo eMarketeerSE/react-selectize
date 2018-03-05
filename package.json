@@ -13,14 +13,13 @@
   "dependencies": {
     "prelude-extension": "^0.1.0",
     "prelude-ls": "^1.1.1",
-    "react-transition-group": "^2.2.1",
     "tether": "^1.1.1"
   },
   "peerDependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-dom-factories": "^1.0.0",
-    "react-transition-group": "^1.1.2"
+    "react-transition-group": "^2.2.1"
   },
   "browserify-shim": {
     "prelude-extension": "global:preludeExtension",
